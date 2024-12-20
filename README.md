@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am a computer engineering student currently working in the Administration of Justice in Spain.
+
+I like learning about computer science and other areas of science.
+
 <!--
 **ItsGomeZ/ItsGomeZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
